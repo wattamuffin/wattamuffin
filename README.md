@@ -17,4 +17,4 @@ My name is **n1llsqq** (real name is **Danil**) and I am 16 years old. Below you
  - Problem Solving
 
 ## 📬 How to Reach Me
-**Telegram**: @isthatn1llsqq<br>**or if you prefer Discord**: @n1llsqq<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1llsqq&theme=dark)](https://github.com/n1llsqq/github-readme-stats)
+**Telegram**: @isthatn1llsqq<br>**or if you prefer Discord**: @n1llsqq<br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1llsqq&theme=dark)](https://github.com/n1llsqq/github-readme-stats)
